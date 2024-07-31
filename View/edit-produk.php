@@ -34,7 +34,7 @@ while ($d = mysqli_fetch_array($data)) {
         <div id="wrapper">
 
             <!-- Sidebar -->
-            <ul class="navbar-nav navbar-dark sidebar sidebar-dark accordion" id="accordionSidebar" style="background-color: #cc0099;">
+            <ul class="navbar-nav navbar-dark sidebar sidebar-dark accordion" id="accordionSidebar" style="background-color: #e6005c;">
 
                 <!-- Sidebar - Brand -->
                 <br>
@@ -101,7 +101,7 @@ while ($d = mysqli_fetch_array($data)) {
                 <div id="content">
 
                     <!-- Topbar -->
-                    <nav class="navbar navbar-expand navbar-light topbar mb-4 static-top shadow" style="background-color: #990073">
+                    <nav class="navbar navbar-expand navbar-light topbar mb-4 static-top shadow" style="background-color: #b30047">
 
                         <!-- Sidebar Toggle (Topbar) -->
                         <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
